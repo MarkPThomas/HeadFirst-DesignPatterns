@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\1 - Intro to Design Patterns\Ducks\bin\Debug\Ducks.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\1 - Intro to Design Patterns\Ducks\bin\Debug\Ducks.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\1 - Intro to Design Patterns\Ducks\bin\Debug\Ducks.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\1 - Intro to Design Patterns\Ducks\obj\Debug\Ducks.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\1 - Intro to Design Patterns\Ducks\obj\Debug\Ducks.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\1 - Intro to Design Patterns\Ducks\obj\Debug\Ducks.pdb
