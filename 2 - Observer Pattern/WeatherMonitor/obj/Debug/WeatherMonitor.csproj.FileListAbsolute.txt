@@ -1,0 +1,1 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\2 - Observer Pattern\WeatherMonitor\bin\Debug\WeatherMonitor.exe.config
