@@ -8,36 +8,17 @@ using WeatherMonitor.Controller;
 
 namespace WeatherMonitor.Model
 {
-    class WeatherData
+    public class WeatherData : ISubject
     {
-        private CurrentConditionsDisplay currentConditionsDisplay;
-        private ForecastDisplay forecastDisplay;
-        private StatisticsDisplay statisticsDisplay;
+        private List<IObserver> _observers;
 
-        public readonly double Temperature;
-        public readonly double Humidity;
-        public readonly double Pressure;
+        public double Temperature { get; private set; }
+        public double Humidity { get; private set; }
+        public double Pressure { get; private set; }
 
-        public void WeatherMonitor()
+        public WeatherData()
         {
-            currentConditionsDisplay = new CurrentConditionsDisplay();
-            forecastDisplay = new ForecastDisplay();
-            statisticsDisplay = new StatisticsDisplay();
-        }
-
-        public double GetTemperature()
-        {
-            return Temperature;
-        }
-
-        public double GetHumidity()
-        {
-            return Humidity;
-        }
-
-        public double GetPressure()
-        {
-            return Pressure;
+            _observers = new List<IObserver>();
         }
 
         /// <summary>
@@ -45,13 +26,37 @@ namespace WeatherMonitor.Model
         /// </summary>
         public void MeasurementsChanged()
         {
-            double temp = GetTemperature();
-            double humidity = GetHumidity();
-            double pressure = GetPressure();
+            NotifyObservers();
+        }
 
-            currentConditionsDisplay.Update(temp, humidity, pressure);
-            forecastDisplay.Update(temp, humidity, pressure);
-            statisticsDisplay.Update(temp, humidity, pressure);
+        public void RegisterObserver(IObserver obj)
+        {
+            _observers.Add(obj);
+        }
+
+        public void RemoveObserver(IObserver obj)
+        {
+            if (_observers.Contains(obj))
+            {
+                _observers.Remove(obj);
+            }
+        }
+
+        public void NotifyObservers()
+        {
+            foreach (IObserver observer in _observers)
+            {
+                observer.Update(Temperature, Humidity, Pressure);
+            }
+        }
+
+        public void SetMeasurements(double temperature, double humitidy, double pressure)
+        {
+            Temperature = temperature;
+            Humidity = humitidy;
+            Pressure = pressure;
+
+            MeasurementsChanged();
         }
     }
 }

@@ -45,11 +45,16 @@
   <ItemGroup>
     <Compile Include="Controller\CurrentConditionsDisplay.cs" />
     <Compile Include="Controller\ForecastDisplay.cs" />
-    <Compile Include="Controller\IUpdate.cs" />
+    <Compile Include="Controller\HeatIndex.cs" />
+    <Compile Include="Controller\IDisplayElement.cs" />
+    <Compile Include="Controller\IObserver.cs" />
     <Compile Include="Controller\StatisticsDisplay.cs" />
+    <Compile Include="Model\ISubject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Model\WeatherData.cs" />
+    <Compile Include="Tests\WeatherStation.cs" />
+    <Compile Include="Tools\Statistics.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

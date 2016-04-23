@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace WeatherMonitor.Controller
 {
-    interface IUpdate
+    public interface IDisplayElement
     {
-        void Update(double temp, double humidity, double pressure);
+        void Display();
     }
 }
