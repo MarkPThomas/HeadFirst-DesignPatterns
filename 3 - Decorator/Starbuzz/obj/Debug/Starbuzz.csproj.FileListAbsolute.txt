@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\Starbuzz\bin\Debug\Starbuzz.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\Starbuzz\bin\Debug\Starbuzz.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\Starbuzz\bin\Debug\Starbuzz.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\Starbuzz\obj\Debug\Starbuzz.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\Starbuzz\obj\Debug\Starbuzz.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\Starbuzz\obj\Debug\Starbuzz.pdb
