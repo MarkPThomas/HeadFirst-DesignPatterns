@@ -8,26 +8,34 @@ namespace Starbuzz.Model
 {
     public class Mocha : CondimentDecorator
     {
-        private Beverage _beverage;
-
-        public override string description
+       
+                public override string description
         {
             get
             {
-                return _beverage.description + ", Mocha";
+                return beverage.description + ", Mocha";
             }
         }
 
         public Mocha(Beverage beverage)
         {
-            _beverage = beverage;
-            _description = beverage.description;
+            base.beverage = beverage;
         }
 
 
         public override double cost()
         {
-            return _beverage.cost() + 0.20;
+            switch (size)
+            {
+                case Size.TALL:
+                    return beverage.cost() + 0.15;
+                case Size.GRANDE:
+                    return beverage.cost() + 0.20;
+                case Size.VENTI:
+                    return beverage.cost() + 0.25;
+                default:
+                    return beverage.cost() + 0.20;
+            }
         }
     }
 }
