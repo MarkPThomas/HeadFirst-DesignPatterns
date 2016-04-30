@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PizzaStore
+namespace PizzaFanchise.Model
 {
-    class PepperoniPizza : Pizza
+    class CaliforniaStylePepperoniPizza : Pizza
     {
     }
 }

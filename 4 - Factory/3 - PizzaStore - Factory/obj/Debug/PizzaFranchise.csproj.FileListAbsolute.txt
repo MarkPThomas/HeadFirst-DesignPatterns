@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\4 - Factory\3 - PizzaStore - Factory\bin\Debug\PizzaFanchise.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\4 - Factory\3 - PizzaStore - Factory\bin\Debug\PizzaFanchise.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\4 - Factory\3 - PizzaStore - Factory\bin\Debug\PizzaFanchise.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\4 - Factory\3 - PizzaStore - Factory\obj\Debug\PizzaFranchise.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\4 - Factory\3 - PizzaStore - Factory\obj\Debug\PizzaFanchise.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\4 - Factory\3 - PizzaStore - Factory\obj\Debug\PizzaFanchise.pdb

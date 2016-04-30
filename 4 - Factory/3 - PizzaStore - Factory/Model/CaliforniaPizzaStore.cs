@@ -4,27 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PizzaStore
+namespace PizzaFanchise.Model
 {
-    public class SimplePizzaFactory
+    class CaliforniaPizzaStore : PizzaStore
     {
-        public Pizza CreatePizza(string type)
+        protected override Pizza CreatePizza(string type)
         {
             Pizza pizza = null;
 
             switch (type)
             {
                 case "cheese":
-                    pizza = new CheesePizza();
+                    pizza = new CaliforniaStyleCheesePizza();
                     break;
                 case "pepperoni":
-                    pizza = new PepperoniPizza();
+                    pizza = new CaliforniaStylePepperoniPizza();
                     break;
                 case "clam":
-                    pizza = new ClamPizza();
+                    pizza = new CaliforniaStyleClamPizza();
                     break;
                 case "veggie":
-                    pizza = new VeggiePizza();
+                    pizza = new CaliforniaStyleVeggiePizza();
                     break;
                 default:
                     break;
