@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\IODecorator\bin\Debug\IODecorator.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\IODecorator\bin\Debug\IODecorator.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\IODecorator\bin\Debug\IODecorator.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\IODecorator\obj\Debug\IODecorator.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\IODecorator\obj\Debug\IODecorator.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\3 - Decorator\IODecorator\obj\Debug\IODecorator.pdb
