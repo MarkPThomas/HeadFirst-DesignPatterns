@@ -1,0 +1,2 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\4 - Factory\PizzaStore\bin\Debug\PizzaStore.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\4 - Factory\2 - PizzaStore - Simple Factory\bin\Debug\PizzaStore.exe.config
