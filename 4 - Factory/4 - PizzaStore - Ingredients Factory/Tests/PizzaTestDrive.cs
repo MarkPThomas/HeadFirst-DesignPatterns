@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using PizzaFanchise.Model;
+using PizzaFanchise.Model.Stores;
+using PizzaFanchise.Model.Pizzas;
 
 namespace PizzaFanchise.Tests
 {

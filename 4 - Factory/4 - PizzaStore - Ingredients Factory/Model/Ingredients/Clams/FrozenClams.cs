@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PizzaFanchise.Model
+namespace PizzaFanchise.Model.Ingredients.Clams
 {
-    class ChicagoStyleVeggiePizza : Pizza
+    public class FrozenClams : Clam
     {
     }
 }

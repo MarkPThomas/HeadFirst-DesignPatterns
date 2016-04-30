@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PizzaFanchise.Model
+using PizzaFanchise.Model.Pizzas;
+
+namespace PizzaFanchise.Model.Stores
 {
     public abstract class PizzaStore
     {

@@ -43,30 +43,53 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\CaliforniaPizzaStore.cs" />
-    <Compile Include="Model\ChicagoPizzaStore.cs" />
-    <Compile Include="Model\ChicagoStyleCheesePizza.cs" />
-    <Compile Include="Model\CaliforniaStyleCheesePizza.cs" />
-    <Compile Include="Model\NYStyleCheesePizza.cs" />
-    <Compile Include="Model\ChicagoStyleClamPizza.cs" />
-    <Compile Include="Model\CaliforniaStyleClamPizza.cs" />
-    <Compile Include="Model\NYStyleClamPizza.cs" />
-    <Compile Include="Model\NYPizzaStore.cs" />
-    <Compile Include="Model\ChicagoStylePepperoniPizza.cs" />
-    <Compile Include="Model\CaliforniaStylePepperoniPizza.cs" />
-    <Compile Include="Model\NYStylePepperoniPizza.cs" />
-    <Compile Include="Model\ChicagoStyleVeggiePizza.cs" />
-    <Compile Include="Model\CaliforniaStyleVeggiePizza.cs" />
-    <Compile Include="Model\Pizza.cs" />
-    <Compile Include="Model\PizzaStore.cs" />
+    <Compile Include="Model\Ingredients\CaliforniaIngredientFactory.cs" />
+    <Compile Include="Model\Ingredients\ChicagoIngredientFactory.cs" />
+    <Compile Include="Model\Ingredients\NYPizzaIngredientFactory.cs" />
+    <Compile Include="Model\Ingredients\Pepperonis\SlicedPepperoni.cs" />
+    <Compile Include="Model\Ingredients\Sauces\BruschettaSauce.cs" />
+    <Compile Include="Model\Ingredients\Clams\Calamari.cs" />
+    <Compile Include="Model\Ingredients\Clams\FreshClams.cs" />
+    <Compile Include="Model\Ingredients\Clams\FrozenClams.cs" />
+    <Compile Include="Model\Ingredients\Cheeses\GoatCheese.cs" />
+    <Compile Include="Model\Ingredients\Sauces\MarinaraSauce.cs" />
+    <Compile Include="Model\Ingredients\Cheeses\MozzarellaCheese.cs" />
+    <Compile Include="Model\Ingredients\Sauces\PlumTomatoSauce.cs" />
+    <Compile Include="Model\Ingredients\Cheeses\ReggianoCheese.cs" />
+    <Compile Include="Model\Ingredients\Doughs\ThickCrustDough.cs" />
+    <Compile Include="Model\Ingredients\Doughs\ThinCrustDough.cs" />
+    <Compile Include="Model\Ingredients\Doughs\VeryThinCrust.cs" />
+    <Compile Include="Model\Ingredients\Veggies\BlackOlives.cs" />
+    <Compile Include="Model\Ingredients\Veggies\EggPlant.cs" />
+    <Compile Include="Model\Ingredients\Veggies\Garlic.cs" />
+    <Compile Include="Model\Ingredients\Veggies\Mushroom.cs" />
+    <Compile Include="Model\Ingredients\Veggies\Onion.cs" />
+    <Compile Include="Model\Ingredients\Veggies\RedPepper.cs" />
+    <Compile Include="Model\Ingredients\Veggies\Spinache.cs" />
+    <Compile Include="Model\Stores\CaliforniaPizzaStore.cs" />
+    <Compile Include="Model\Ingredients\Cheese.cs" />
+    <Compile Include="Model\Stores\ChicagoPizzaStore.cs" />
+    <Compile Include="Model\Ingredients\Clam.cs" />
+    <Compile Include="Model\Ingredients\Dough.cs" />
+    <Compile Include="Model\Ingredients\IPizzaIngredientFactory.cs" />
+    <Compile Include="Model\Pizzas\CheesePizza.cs" />
+    <Compile Include="Model\Pizzas\ClamPizza.cs" />
+    <Compile Include="Model\Stores\NYPizzaStore.cs" />
+    <Compile Include="Model\Pizzas\PepperoniPizza.cs" />
+    <Compile Include="Model\Ingredients\Pepperoni.cs" />
+    <Compile Include="Model\Pizzas\Pizza.cs" />
+    <Compile Include="Model\Stores\PizzaStore.cs" />
+    <Compile Include="Model\Ingredients\Sauce.cs" />
+    <Compile Include="Model\Ingredients\Veggie.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Model\NYStyleVeggiePizza.cs" />
+    <Compile Include="Model\Pizzas\VeggiePizza.cs" />
     <Compile Include="Tests\PizzaTestDrive.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

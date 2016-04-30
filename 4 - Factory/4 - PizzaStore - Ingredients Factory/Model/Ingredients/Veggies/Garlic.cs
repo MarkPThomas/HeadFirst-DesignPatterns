@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PizzaFanchise.Model
+namespace PizzaFanchise.Model.Ingredients.Veggies
 {
-    class CaliforniaStyleCheesePizza : Pizza
+    public class Garlic : Veggie
     {
     }
 }
