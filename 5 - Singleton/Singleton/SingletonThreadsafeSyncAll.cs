@@ -11,6 +11,7 @@ namespace Singleton
     ///  Uses a thread-safe sync on the method. 
     ///  However, this has large speed performance penalties and is really only necessary the first time the method is called.
     ///  See: http://stackoverflow.com/questions/541194/c-sharp-version-of-javas-synchronized-keyword
+    ///  And: http://stackoverflow.com/questions/6140048/difference-between-manual-locking-and-synchronized-methods?lq=1
     /// </summary>
     class SingletonThreadSafeSyncAll
     {
