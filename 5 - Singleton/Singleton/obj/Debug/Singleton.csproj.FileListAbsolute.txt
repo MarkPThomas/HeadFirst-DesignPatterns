@@ -1,0 +1,1 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\5 - Singleton\Singleton\bin\Debug\Singleton.exe.config
