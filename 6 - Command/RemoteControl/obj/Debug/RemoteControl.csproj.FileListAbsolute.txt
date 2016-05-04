@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl\bin\Debug\RemoteControl.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl\bin\Debug\RemoteControl.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl\bin\Debug\RemoteControl.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl\obj\Debug\RemoteControl.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl\obj\Debug\RemoteControl.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl\obj\Debug\RemoteControl.pdb
