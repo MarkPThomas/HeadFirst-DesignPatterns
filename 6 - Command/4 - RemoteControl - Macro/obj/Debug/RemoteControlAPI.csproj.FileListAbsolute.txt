@@ -1,0 +1,18 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Full\bin\Debug\RemoteControlAPI.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Full\bin\Debug\RemoteControlAPI.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Full\bin\Debug\RemoteControlAPI.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Full\obj\Debug\RemoteControlAPI.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Full\obj\Debug\RemoteControlAPI.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Full\obj\Debug\RemoteControlAPI.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Undo\bin\Debug\RemoteControlAPI.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Undo\obj\Debug\RemoteControlAPI.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Undo\obj\Debug\RemoteControlAPI.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Undo\bin\Debug\RemoteControlAPI.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Undo\bin\Debug\RemoteControlAPI.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\RemoteControl - Undo\obj\Debug\RemoteControlAPI.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\4 - RemoteControl - Macro\bin\Debug\RemoteControlAPI.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\4 - RemoteControl - Macro\obj\Debug\RemoteControlAPI.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\4 - RemoteControl - Macro\obj\Debug\RemoteControlAPI.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\4 - RemoteControl - Macro\bin\Debug\RemoteControlAPI.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\4 - RemoteControl - Macro\bin\Debug\RemoteControlAPI.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\6 - Command\4 - RemoteControl - Macro\obj\Debug\RemoteControlAPI.csprojResolveAssemblyReference.cache
