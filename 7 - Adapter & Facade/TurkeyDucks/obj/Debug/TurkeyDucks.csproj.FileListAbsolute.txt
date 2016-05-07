@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\TurkeyDucks\bin\Debug\TurkeyDucks.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\TurkeyDucks\bin\Debug\TurkeyDucks.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\TurkeyDucks\bin\Debug\TurkeyDucks.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\TurkeyDucks\obj\Debug\TurkeyDucks.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\TurkeyDucks\obj\Debug\TurkeyDucks.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\TurkeyDucks\obj\Debug\TurkeyDucks.pdb

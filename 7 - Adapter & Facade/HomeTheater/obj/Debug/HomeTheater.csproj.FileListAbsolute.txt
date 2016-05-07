@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\HomeTheater\bin\Debug\HomeTheater.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\HomeTheater\bin\Debug\HomeTheater.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\HomeTheater\bin\Debug\HomeTheater.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\HomeTheater\obj\Debug\HomeTheater.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\HomeTheater\obj\Debug\HomeTheater.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\7 - Adapter & Facade\HomeTheater\obj\Debug\HomeTheater.pdb
