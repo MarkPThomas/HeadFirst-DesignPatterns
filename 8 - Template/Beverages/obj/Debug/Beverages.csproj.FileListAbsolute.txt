@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\8 - Template\Beverages\bin\Debug\Beverages.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\8 - Template\Beverages\bin\Debug\Beverages.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\8 - Template\Beverages\bin\Debug\Beverages.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\8 - Template\Beverages\obj\Debug\Beverages.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\8 - Template\Beverages\obj\Debug\Beverages.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\8 - Template\Beverages\obj\Debug\Beverages.pdb
