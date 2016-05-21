@@ -12,6 +12,9 @@ namespace Menus.Tests
     {
         public static void Run()
         {
+            List<IMenu> menus = new List<IMenu>() {new PancakeHouseMenu(),
+                                                   new DinerMenu(),
+                                                   new CafeMenu()};
             // Create Pancake House Menu
             MenuComponent pancakeHouseMenu = new Menu("PANCAKE HOUSE MENU", "BreakFast");
             pancakeHouseMenu.Add(new MenuItem("K&B's Pancake Breakfast",

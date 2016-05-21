@@ -39,6 +39,26 @@ namespace Menus.Model
         #endregion
 
         #region Methods: Operation
+        public virtual string GetName()
+        {
+            throw new NotSupportedException();
+        }
+
+        public virtual string GetDescription()
+        {
+            throw new NotSupportedException();
+        }
+
+        public virtual string GetPrice()
+        {
+            throw new NotSupportedException();
+        }
+
+        public virtual string IsVegetarian()
+        {
+            throw new NotSupportedException();
+        }
+
         public virtual void Print()
         {
             throw new NotSupportedException();
