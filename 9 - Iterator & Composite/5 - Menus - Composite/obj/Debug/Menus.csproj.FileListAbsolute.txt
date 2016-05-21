@@ -1,0 +1,30 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\Menus\bin\Debug\Menus.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\Menus\bin\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\Menus\bin\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\Menus\obj\Debug\Menus.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\Menus\obj\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\Menus\obj\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\2 - Menus - Iterator\bin\Debug\Menus.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\2 - Menus - Iterator\obj\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\2 - Menus - Iterator\obj\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\2 - Menus - Iterator\bin\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\2 - Menus - Iterator\bin\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\2 - Menus - Iterator\obj\Debug\Menus.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\3 - Menus - IEnumerable\bin\Debug\Menus.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\3 - Menus - IEnumerable\obj\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\3 - Menus - IEnumerable\obj\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\3 - Menus - IEnumerable\bin\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\3 - Menus - IEnumerable\bin\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\3 - Menus - IEnumerable\obj\Debug\Menus.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\4 - Menus - Hash Map\bin\Debug\Menus.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\4 - Menus - Hash Map\obj\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\4 - Menus - Hash Map\obj\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\4 - Menus - Hash Map\bin\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\4 - Menus - Hash Map\bin\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\4 - Menus - Hash Map\obj\Debug\Menus.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\5 - Menus - Composite\bin\Debug\Menus.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\5 - Menus - Composite\obj\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\5 - Menus - Composite\obj\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\5 - Menus - Composite\bin\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\5 - Menus - Composite\bin\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\5 - Menus - Composite\obj\Debug\Menus.csprojResolveAssemblyReference.cache
