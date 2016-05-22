@@ -64,5 +64,10 @@ namespace MightyGumballInc.Model
         {
             return "Machine has dispensed an extra gumball.";
         }
+
+        public void Refill()
+        {
+            // Do Nothing
+        }
     }
 }

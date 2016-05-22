@@ -12,5 +12,6 @@ namespace MightyGumballInc.Model
         void EjectQuarter();
         void TurnCrank();
         void Dispense();
+        void Refill();
     }
 }

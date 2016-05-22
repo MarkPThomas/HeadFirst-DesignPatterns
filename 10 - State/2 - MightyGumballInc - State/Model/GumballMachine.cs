@@ -39,16 +39,19 @@ namespace MightyGumballInc.Model
 
         public void InsertQuarter()
         {
+            Console.WriteLine("Inserting quarter ...");
             _state.InsertQuarter();
         }
 
         public void EjectQuarter()
         {
+            Console.WriteLine("Ejecting quarter ...");
             _state.EjectQuarter();
         }
 
         public void TurnCrank()
         {
+            Console.WriteLine("Turning crank ...");
             _state.TurnCrank();
             _state.Dispense();
         }
@@ -59,6 +62,21 @@ namespace MightyGumballInc.Model
             if (Count != 0)
             {
                 Count -= 1;
+            }
+        }
+
+        public void Refill(int count)
+        {
+            Console.WriteLine("Refilling gumball machine ...");
+            if (Count == 0)
+            {
+                Count += count;
+                _state.Refill();
+                Console.WriteLine("The gumball machine was just refilled; its new count is: " + Count);
+            }
+            else
+            {
+                Console.WriteLine("The gumball machine cannot be refilled until it is empty. Its current count is: " + Count);
             }
         }
 

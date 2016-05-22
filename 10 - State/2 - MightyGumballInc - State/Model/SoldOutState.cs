@@ -39,5 +39,10 @@ namespace MightyGumballInc.Model
         {
             return "Machine is sold out.";
         }
+
+        public void Refill()
+        {           
+            _gumballMachine.SetState(_gumballMachine.NoQuarterState);
+        }
     }
 }

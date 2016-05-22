@@ -51,5 +51,10 @@ namespace MightyGumballInc.Model
         {
             return "Machine is waiting for crank to be pulled.";
         }
+
+        public void Refill()
+        {
+            // Do Nothing
+        }
     }
 }

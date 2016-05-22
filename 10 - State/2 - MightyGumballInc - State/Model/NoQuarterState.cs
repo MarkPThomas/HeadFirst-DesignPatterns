@@ -40,5 +40,10 @@ namespace MightyGumballInc.Model
         {
             return "Machine is waiting for a quarter.";
         }
+
+        public void Refill()
+        {
+            // Do Nothing
+        }
     }
 }
