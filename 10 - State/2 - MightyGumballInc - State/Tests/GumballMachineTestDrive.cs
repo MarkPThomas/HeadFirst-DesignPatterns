@@ -17,37 +17,54 @@ namespace MightyGumballInc.Tests
             Console.WriteLine(gumballMachine);
             Console.WriteLine();
 
+            Console.WriteLine("Inserting quarter ...");
             gumballMachine.InsertQuarter();
+            Console.WriteLine("Turning crank ...");
             gumballMachine.TurnCrank();
 
             Console.WriteLine();
             Console.WriteLine(gumballMachine);
             Console.WriteLine();
 
+            Console.WriteLine("Inserting quarter ...");
             gumballMachine.InsertQuarter();
+            Console.WriteLine("Ejecting quarter ...");
             gumballMachine.EjectQuarter();
+            Console.WriteLine("Turning crank ...");
             gumballMachine.TurnCrank();
 
             Console.WriteLine();
             Console.WriteLine(gumballMachine);
             Console.WriteLine();
 
+            Console.WriteLine("Inserting quarter ...");
             gumballMachine.InsertQuarter();
+            Console.WriteLine("Turning crank ...");
             gumballMachine.TurnCrank();
+            Console.WriteLine("Inserting quarter ...");
             gumballMachine.InsertQuarter();
+            Console.WriteLine("Turning crank ...");
             gumballMachine.TurnCrank();
+            Console.WriteLine("Ejecting quarter ...");
             gumballMachine.EjectQuarter();
 
             Console.WriteLine();
             Console.WriteLine(gumballMachine);
             Console.WriteLine();
 
+            Console.WriteLine("Inserting quarter ...");
             gumballMachine.InsertQuarter();
+            Console.WriteLine("Inserting quarter ...");
             gumballMachine.InsertQuarter();
+            Console.WriteLine("Turning crank ...");
             gumballMachine.TurnCrank();
+            Console.WriteLine("Inserting quarter ...");
             gumballMachine.InsertQuarter();
+            Console.WriteLine("Turning crank ...");
             gumballMachine.TurnCrank();
+            Console.WriteLine("Inserting quarter ...");
             gumballMachine.InsertQuarter();
+            Console.WriteLine("Turning crank ...");
             gumballMachine.TurnCrank();
 
             Console.WriteLine();

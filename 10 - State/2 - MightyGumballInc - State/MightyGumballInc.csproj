@@ -44,6 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\GumballMachine.cs" />
+    <Compile Include="Model\HasQuarterState.cs" />
+    <Compile Include="Model\IState.cs" />
+    <Compile Include="Model\NoQuarterState.cs" />
+    <Compile Include="Model\SoldOutState.cs" />
+    <Compile Include="Model\SoldState.cs" />
+    <Compile Include="Model\WinnerState.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tests\GumballMachineTestDrive.cs" />
