@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using Menus.Lib;
+
 namespace Menus.Model
 {
     public class MenuItem : MenuComponent
@@ -26,11 +28,16 @@ namespace Menus.Model
 
         public override void Print()
         {
-            string message = "    " + Name;
+            string message = "  " + Name;
             if (Vegetarian) { message += "(v)"; }
-            message += ", " + Price + "     -- " + Description;
+            message += ", " + Price + "\n     -- " + Description;
 
             Console.WriteLine(message);
+        }
+
+        public override IIterator<MenuComponent> CreateIterator()
+        {
+            return new NullIterator();
         }
     }
 }

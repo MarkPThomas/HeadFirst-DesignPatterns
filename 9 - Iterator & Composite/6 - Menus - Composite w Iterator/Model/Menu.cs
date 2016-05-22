@@ -4,11 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using Menus.Lib;
+
 namespace Menus.Model
 {
     public class Menu : MenuComponent
     {
         private List<MenuComponent> _menuComponents = new List<MenuComponent>();
+        private IIterator<MenuComponent> _iterator = null;
 
         public override string Name { get { return _name; } }
         public override string Description { get { return _description; } }
@@ -48,6 +51,15 @@ namespace Menus.Model
             {
                 menuComponent.Print();
             }
+        }
+
+        public override IIterator<MenuComponent> CreateIterator()
+        {
+            if (_iterator == null)
+            {
+                _iterator = new CompositeIterator(new EnumeratorAdapter<MenuComponent>(_menuComponents.GetEnumerator()));
+            }
+            return _iterator;
         }
     }
 }

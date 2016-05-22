@@ -31,3 +31,6 @@ C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Co
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\6 - Menus - Composite w Iterator\bin\Debug\Menus.exe.config
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\6 - Menus - Composite w Iterator\obj\Debug\Menus.exe
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\6 - Menus - Composite w Iterator\obj\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\6 - Menus - Composite w Iterator\bin\Debug\Menus.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\6 - Menus - Composite w Iterator\bin\Debug\Menus.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\9 - Iterator & Composite\6 - Menus - Composite w Iterator\obj\Debug\Menus.csprojResolveAssemblyReference.cache

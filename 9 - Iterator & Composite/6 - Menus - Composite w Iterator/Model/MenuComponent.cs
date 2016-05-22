@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using Menus.Lib;
+
 namespace Menus.Model
 {
     public abstract class MenuComponent
@@ -39,27 +41,12 @@ namespace Menus.Model
         #endregion
 
         #region Methods: Operation
-        public virtual string GetName()
-        {
-            throw new NotSupportedException();
-        }
-
-        public virtual string GetDescription()
-        {
-            throw new NotSupportedException();
-        }
-
-        public virtual string GetPrice()
-        {
-            throw new NotSupportedException();
-        }
-
-        public virtual string IsVegetarian()
-        {
-            throw new NotSupportedException();
-        }
-
         public virtual void Print()
+        {
+            throw new NotSupportedException();
+        }
+
+        public virtual IIterator<MenuComponent> CreateIterator()
         {
             throw new NotSupportedException();
         }

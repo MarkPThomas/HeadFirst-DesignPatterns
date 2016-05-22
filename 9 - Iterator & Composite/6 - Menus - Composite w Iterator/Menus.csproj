@@ -43,9 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Lib\EnumerableAdapter.cs" />
+    <Compile Include="Lib\EnumeratorAdapter.cs" />
+    <Compile Include="Lib\IIterable.cs" />
+    <Compile Include="Lib\IIterator.cs" />
+    <Compile Include="Lib\IterableAdapter.cs" />
+    <Compile Include="Lib\IteratorAdapter.cs" />
+    <Compile Include="Model\CompositeIterator.cs" />
     <Compile Include="Model\Menu.cs" />
     <Compile Include="Model\MenuComponent.cs" />
     <Compile Include="Model\MenuItem.cs" />
+    <Compile Include="Model\NullIterator.cs" />
     <Compile Include="Model\Waitress.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

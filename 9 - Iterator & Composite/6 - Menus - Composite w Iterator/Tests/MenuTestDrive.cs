@@ -12,9 +12,6 @@ namespace Menus.Tests
     {
         public static void Run()
         {
-            List<IMenu> menus = new List<IMenu>() {new PancakeHouseMenu(),
-                                                   new DinerMenu(),
-                                                   new CafeMenu()};
             // Create Pancake House Menu
             MenuComponent pancakeHouseMenu = new Menu("PANCAKE HOUSE MENU", "BreakFast");
             pancakeHouseMenu.Add(new MenuItem("K&B's Pancake Breakfast",
@@ -36,10 +33,6 @@ namespace Menus.Tests
 
             // Create Diner Menu
             MenuComponent dinerMenu = new Menu("DINER MENU", "Lunch");
-            dinerMenu.Add(new MenuItem("Pasta",
-                    "Spaghetti with Marinara Sauce, and a slice of sourdough bread.",
-                    true,
-                    3.89));
             dinerMenu.Add(new MenuItem("Vegetarian BLT",
                     "(Fakin') Bacon with lettuce & tomato on whole wheat.",
                     true,
@@ -56,6 +49,14 @@ namespace Menus.Tests
                     "A hot dog with saurkraut, relish, onions, topped with cheese.",
                     false,
                     3.05));
+            dinerMenu.Add(new MenuItem("Steamed Veggies and Brown Rice",
+                    "Steamed vegetables over brown rice.",
+                    true,
+                    3.99));
+            dinerMenu.Add(new MenuItem("Pasta",
+                    "Spaghetti with Marinara Sauce, and a slice of sourdough bread.",
+                    true,
+                    3.89));
 
             // Create Cafe Menu
             MenuComponent cafeMenu = new Menu("CAFE MENU", "Dinner");
@@ -78,17 +79,18 @@ namespace Menus.Tests
                     "Apple pie with flakey crust, topped with vanilla ice cream.",
                     true,
                     1.59));
-            dessertMenu.Add(new MenuItem("Hot Fudge Sundae",
-                    "Vanilla and chocolate ice cream with hot fudge.",
+            dessertMenu.Add(new MenuItem("Cheesecake",
+                    "Creamy New York cheesecake, with a chocolate graham crust..",
                     true,
-                    3.59));
-            dessertMenu.Add(new MenuItem("Milk Shake",
-                    "Milk and chocolate icecream in a delicious shake.",
+                    1.99));
+            dessertMenu.Add(new MenuItem("Sorbet",
+                    "A scoop of raspberry and a scoop of lime.",
                     true,
-                    4.59));
+                    1.89));
 
             // Combine Menus
             MenuComponent allMenus = new Menu("ALL MENUS", "All menus combined.");
+
             allMenus.Add(pancakeHouseMenu);
 
             allMenus.Add(dinerMenu);
@@ -96,10 +98,11 @@ namespace Menus.Tests
 
             allMenus.Add(cafeMenu);
 
-
             Waitress waitress = new Waitress(allMenus);
 
             waitress.PrintMenu();
+
+            waitress.PrintVegetarianMenu();
         }
 
     }
