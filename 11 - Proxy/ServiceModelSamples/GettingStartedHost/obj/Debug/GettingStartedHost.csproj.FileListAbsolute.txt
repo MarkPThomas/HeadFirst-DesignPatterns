@@ -1,0 +1,16 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedHost\obj\Debug\GettingStartedHost.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedHost\obj\Debug\GettingStartedHost.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedHost\bin\Debug\GettingStartedHost.pdb

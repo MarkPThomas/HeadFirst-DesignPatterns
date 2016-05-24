@@ -1,0 +1,11 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedLib\obj\Debug\GettingStartedLib.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedLib\obj\Debug\GettingStartedLib.pdb

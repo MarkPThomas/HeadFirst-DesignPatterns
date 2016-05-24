@@ -1,0 +1,5 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\ServiceModelSamples\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
