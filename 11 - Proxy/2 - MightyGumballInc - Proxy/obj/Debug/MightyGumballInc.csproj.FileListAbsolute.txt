@@ -20,3 +20,8 @@ C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\1 - Mi
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\bin\Debug\MightyGumballInc.exe.config
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\obj\Debug\MightyGumballInc.exe
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\obj\Debug\MightyGumballInc.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\bin\Debug\MightyGumballInc.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\bin\Debug\MightyGumballInc.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\obj\Debug\MightyGumballInc.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\bin\Debug\MightyGumballLib.dll
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\bin\Debug\MightyGumballLib.pdb

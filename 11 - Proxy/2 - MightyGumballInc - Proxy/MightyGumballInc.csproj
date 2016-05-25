@@ -35,6 +35,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,23 +45,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\GumballMachine.cs" />
-    <Compile Include="Model\GumballMonitor.cs" />
-    <Compile Include="Model\HasQuarterState.cs" />
-    <Compile Include="Model\IRemote.cs" />
-    <Compile Include="Model\IState.cs" />
-    <Compile Include="Model\NoQuarterState.cs" />
-    <Compile Include="Model\SoldOutState.cs" />
-    <Compile Include="Model\SoldState.cs" />
-    <Compile Include="Model\WinnerState.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tests\GumballMachineTestDrive.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="MightyGumballLib\MightyGumballLib.csproj">
+      <Project>{cfe7392c-868d-4c3c-8123-ce1b3c0254ff}</Project>
+      <Name>MightyGumballLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

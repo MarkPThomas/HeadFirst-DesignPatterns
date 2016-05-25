@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DuckSimulator\bin\Debug\DuckSimulator.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DuckSimulator\bin\Debug\DuckSimulator.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DuckSimulator\bin\Debug\DuckSimulator.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DuckSimulator\obj\Debug\DuckSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DuckSimulator\obj\Debug\DuckSimulator.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\12 - Compound Patterns\DuckSimulator\obj\Debug\DuckSimulator.pdb

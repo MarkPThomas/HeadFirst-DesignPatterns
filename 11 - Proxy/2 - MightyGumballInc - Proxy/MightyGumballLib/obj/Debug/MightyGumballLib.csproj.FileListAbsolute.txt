@@ -1,0 +1,5 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\MightyGumballLib\bin\Debug\MightyGumballLib.dll.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\MightyGumballLib\bin\Debug\MightyGumballLib.dll
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\MightyGumballLib\bin\Debug\MightyGumballLib.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\MightyGumballLib\obj\Debug\MightyGumballLib.dll
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\2 - MightyGumballInc - Proxy\MightyGumballLib\obj\Debug\MightyGumballLib.pdb
