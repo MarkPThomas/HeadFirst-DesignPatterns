@@ -22,7 +22,7 @@ namespace DJ
 
         private void Application_Startup(object sender, StartupEventArgs e)
         {
-            DJTestDrive.Run();
+            HeartTestDrive.Run();
         }
     }
 }

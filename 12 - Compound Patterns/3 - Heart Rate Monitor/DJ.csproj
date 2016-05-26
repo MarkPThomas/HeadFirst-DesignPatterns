@@ -59,9 +59,14 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Controller\BeatController.cs" />
+    <Compile Include="Controller\HeartController.cs" />
     <Compile Include="Controller\IController.cs" />
+    <Compile Include="Model\HeartAdapter.cs" />
+    <Compile Include="Model\HeartModel.cs" />
+    <Compile Include="Model\IHeartModel.cs" />
     <Compile Include="Model\IMetaEventListener.cs" />
     <Compile Include="Tests\DJTestDrive.cs" />
+    <Compile Include="Tests\HeartTestDrive.cs" />
     <Compile Include="View\DJViewControl.xaml.cs">
       <DependentUpon>DJViewControl.xaml</DependentUpon>
     </Compile>
