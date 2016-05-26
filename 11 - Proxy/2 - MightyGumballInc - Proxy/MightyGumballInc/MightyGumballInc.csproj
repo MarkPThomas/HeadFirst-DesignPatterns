@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{689F0861-D314-405E-9988-3D8FD47C5F68}</ProjectGuid>
+    <ProjectGuid>{E7F68839-CC3C-4D9D-AF7B-7D6E0D9F1163}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GumballClient</RootNamespace>
-    <AssemblyName>GumballClient</AssemblyName>
+    <RootNamespace>MightyGumballInc</RootNamespace>
+    <AssemblyName>MightyGumballInc</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,22 +45,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\GumballMonitor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tests\GumballMonitorTestDrive.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\2 - MightyGumballInc - Proxy\MightyGumballInc.csproj">
-      <Project>{e7f68839-cc3c-4d9d-af7b-7d6e0d9f1163}</Project>
-      <Name>MightyGumballInc</Name>
-    </ProjectReference>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Service References\" />
+    <ProjectReference Include="..\MightyGumballLib\MightyGumballLib.csproj">
+      <Project>{cfe7392c-868d-4c3c-8123-ce1b3c0254ff}</Project>
+      <Name>MightyGumballLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

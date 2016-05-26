@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using MightyGumballInc.Model;
+using MightyGumballLib.Model;
 
-namespace MightyGumballInc.Tests
+namespace MightyGumballLib.Tests
 {
     public class GumballMachineTestDrive
     {

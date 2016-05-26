@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ServiceModel;
 
-namespace MightyGumballInc.Model
+namespace MightyGumballLib.Model
 {
     [ServiceContract(Namespace = "http://Microsoft.ServiceModel.Samples")]
     public interface IGumballMachineService

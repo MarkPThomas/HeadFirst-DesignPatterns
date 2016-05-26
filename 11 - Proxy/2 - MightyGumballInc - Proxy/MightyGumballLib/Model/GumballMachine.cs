@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Serialization;
 
-namespace MightyGumballInc.Model
+namespace MightyGumballLib.Model
 {
     [DataContract]
     public class GumballMachine : IGumballMachineService

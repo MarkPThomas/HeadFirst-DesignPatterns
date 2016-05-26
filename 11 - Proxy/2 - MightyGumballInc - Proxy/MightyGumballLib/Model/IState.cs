@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MightyGumballInc.Model
+namespace MightyGumballLib.Model
 {
     public interface IState
     {

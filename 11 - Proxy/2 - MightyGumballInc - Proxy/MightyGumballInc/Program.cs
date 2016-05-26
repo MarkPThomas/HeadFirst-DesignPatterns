@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 using System.ServiceModel;
 using System.ServiceModel.Description;
 
-using MightyGumballInc.Model;
+using MightyGumballLib.Model;
 
-namespace MightyGumballInc
+namespace MightyGumballLib
 {
     class Program
     {
