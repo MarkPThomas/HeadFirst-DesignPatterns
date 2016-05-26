@@ -1,0 +1,48 @@
+﻿<Window x:Class="DJ.View.DJViewControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DJ.View"
+        mc:Ignorable="d"
+        Title="Control"
+        Width="200"
+        SizeToContent="Height"
+        ResizeMode="NoResize" Closing="Window_Closing">
+    <Grid>
+        <StackPanel Orientation="Vertical"
+                    HorizontalAlignment="Center"
+                    Width="200">
+            <Menu x:Name="menu" 
+                  HorizontalAlignment="Stretch" VerticalAlignment="Top"
+                  Height="23" AllowDrop="True">
+                <MenuItem Header="_DJ Control"
+                          Margin="5,0,0,0">
+                    <MenuItem x:Name="mItemStart" Header="_Start" Click="mItemStart_Click" />
+                    <MenuItem x:Name="mItemStop" Header="_Stop" Click="mItemStop_Click" />
+                    <MenuItem x:Name="mItemQuit" Header="_Quit" Click="mItemQuit_Click" />
+                </MenuItem>
+            </Menu>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Enter BPM:" 
+                       VerticalAlignment="Center"
+                       Margin="5,0,0,0"/>
+                <TextBox x:Name="txtBxBPM" 
+                         Height="23" Width="50"
+                         Margin="5"/>
+            </StackPanel>
+            <Button x:Name="btnSet"
+                    Content="Set" 
+                    Width="100"
+                    Margin="5" Click="btnSet_Click"/>
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        Margin="5,0,5,5">
+                <Button x:Name="btnDecreaseBPM"
+                    Content="&lt; &lt;" Click="btnDecreaseBPM_Click" />
+                <Button x:Name="btnIncreaseBPM"
+                    Content="&gt; &gt;" Click="btnIncreaseBPM_Click" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
