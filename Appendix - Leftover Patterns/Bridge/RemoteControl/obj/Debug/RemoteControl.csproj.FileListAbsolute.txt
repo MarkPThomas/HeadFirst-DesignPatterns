@@ -1,0 +1,1 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Bridge\RemoteControl\bin\Debug\RemoteControl.exe.config
