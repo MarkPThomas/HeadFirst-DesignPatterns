@@ -1,0 +1,16 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\CDCovers\bin\Debug\CDCovers.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\bin\Debug\CDCovers.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\bin\Debug\CDCovers.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\bin\Debug\CDCovers.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\MainWindow.g.cs
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\App.g.cs
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers_MarkupCompile.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers_MarkupCompile.lref
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\MainWindow.baml
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.g.resources
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.Properties.Resources.resources
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.View.CDCoverViewer.resources
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.pdb

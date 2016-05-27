@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\MatchMaker\bin\Debug\MatchMaker.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\MatchMaker\bin\Debug\MatchMaker.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\MatchMaker\bin\Debug\MatchMaker.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\MatchMaker\obj\Debug\MatchMaker.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\MatchMaker\obj\Debug\MatchMaker.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\MatchMaker\obj\Debug\MatchMaker.pdb
