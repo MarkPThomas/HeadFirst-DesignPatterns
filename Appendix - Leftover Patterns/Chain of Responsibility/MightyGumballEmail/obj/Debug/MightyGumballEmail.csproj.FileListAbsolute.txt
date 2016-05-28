@@ -1,1 +1,6 @@
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Chain of Responsibility\MightyGumballEmail\bin\Debug\MightyGumballEmail.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Chain of Responsibility\MightyGumballEmail\bin\Debug\MightyGumballEmail.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Chain of Responsibility\MightyGumballEmail\bin\Debug\MightyGumballEmail.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Chain of Responsibility\MightyGumballEmail\obj\Debug\MightyGumballEmail.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Chain of Responsibility\MightyGumballEmail\obj\Debug\MightyGumballEmail.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Chain of Responsibility\MightyGumballEmail\obj\Debug\MightyGumballEmail.pdb

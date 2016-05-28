@@ -43,15 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\ComplaintHandler.cs" />
+    <Compile Include="Model\Email.cs" />
+    <Compile Include="Model\EmailType.cs" />
+    <Compile Include="Model\FanHandler.cs" />
+    <Compile Include="Model\Handler.cs" />
+    <Compile Include="Model\NewLocHandler.cs" />
+    <Compile Include="Model\SpamHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests\EmailTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Model\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
