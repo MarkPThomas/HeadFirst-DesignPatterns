@@ -1,0 +1,1 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Chain of Responsibility\MightyGumballEmail\bin\Debug\MightyGumballEmail.exe.config

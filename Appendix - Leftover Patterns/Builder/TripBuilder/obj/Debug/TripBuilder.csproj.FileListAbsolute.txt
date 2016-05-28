@@ -1,1 +1,6 @@
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Builder\TripBuilder\bin\Debug\TripBuilder.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Builder\TripBuilder\bin\Debug\TripBuilder.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Builder\TripBuilder\bin\Debug\TripBuilder.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Builder\TripBuilder\obj\Debug\TripBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Builder\TripBuilder\obj\Debug\TripBuilder.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Builder\TripBuilder\obj\Debug\TripBuilder.pdb
