@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Prototype\MonsterGeneration\bin\Debug\MonsterGeneration.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Prototype\MonsterGeneration\bin\Debug\MonsterGeneration.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Prototype\MonsterGeneration\bin\Debug\MonsterGeneration.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Prototype\MonsterGeneration\obj\Debug\MonsterGeneration.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Prototype\MonsterGeneration\obj\Debug\MonsterGeneration.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Prototype\MonsterGeneration\obj\Debug\MonsterGeneration.pdb
