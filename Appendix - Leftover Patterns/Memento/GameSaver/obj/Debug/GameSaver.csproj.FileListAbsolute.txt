@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Memento\GameSaver\bin\Debug\GameSaver.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Memento\GameSaver\bin\Debug\GameSaver.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Memento\GameSaver\bin\Debug\GameSaver.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Memento\GameSaver\obj\Debug\GameSaver.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Memento\GameSaver\obj\Debug\GameSaver.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Memento\GameSaver\obj\Debug\GameSaver.pdb
