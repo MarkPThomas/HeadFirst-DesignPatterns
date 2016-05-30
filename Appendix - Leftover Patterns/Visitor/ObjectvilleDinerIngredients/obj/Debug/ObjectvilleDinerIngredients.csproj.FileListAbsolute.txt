@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Visitor\ObjectvilleDinerIngredients\bin\Debug\ObjectvilleDinerIngredients.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Visitor\ObjectvilleDinerIngredients\bin\Debug\ObjectvilleDinerIngredients.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Visitor\ObjectvilleDinerIngredients\bin\Debug\ObjectvilleDinerIngredients.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Visitor\ObjectvilleDinerIngredients\obj\Debug\ObjectvilleDinerIngredients.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Visitor\ObjectvilleDinerIngredients\obj\Debug\ObjectvilleDinerIngredients.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Visitor\ObjectvilleDinerIngredients\obj\Debug\ObjectvilleDinerIngredients.pdb
