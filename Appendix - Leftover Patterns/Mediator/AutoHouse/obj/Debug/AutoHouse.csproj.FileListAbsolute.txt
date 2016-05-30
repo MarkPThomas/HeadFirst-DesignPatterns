@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Mediator\AutoHouse\bin\Debug\AutoHouse.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Mediator\AutoHouse\bin\Debug\AutoHouse.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Mediator\AutoHouse\bin\Debug\AutoHouse.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Mediator\AutoHouse\obj\Debug\AutoHouse.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Mediator\AutoHouse\obj\Debug\AutoHouse.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Mediator\AutoHouse\obj\Debug\AutoHouse.pdb
