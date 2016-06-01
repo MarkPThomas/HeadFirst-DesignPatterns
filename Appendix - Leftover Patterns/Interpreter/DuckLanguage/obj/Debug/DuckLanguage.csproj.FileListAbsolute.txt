@@ -1,1 +1,6 @@
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Interpreter\DuckLanguage\bin\Debug\DuckLanguage.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Interpreter\DuckLanguage\bin\Debug\DuckLanguage.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Interpreter\DuckLanguage\bin\Debug\DuckLanguage.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Interpreter\DuckLanguage\obj\Debug\DuckLanguage.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Interpreter\DuckLanguage\obj\Debug\DuckLanguage.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\Appendix - Leftover Patterns\Interpreter\DuckLanguage\obj\Debug\DuckLanguage.pdb

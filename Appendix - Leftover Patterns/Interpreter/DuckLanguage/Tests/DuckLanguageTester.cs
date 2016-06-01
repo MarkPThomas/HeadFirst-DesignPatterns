@@ -10,28 +10,28 @@ namespace DuckLanguage.Tests
 {
     public class DuckLanguageTester
     {
-        public static void Run()
+        private Context context;
+        private List<Expression> expressions;
+        private Sequence sequence;
+
+        public DuckLanguageTester()
         {
-            // right;        // Turn duck right
-            // while (daylight) fly;    // Fly all day
-            // quack;   // and then quack
+            expressions = new List<Expression>() { new Repetition(new FlyCommand()),
+                                                   new Repetition(new QuackCommand()),
+                                                   new Repetition(new RightCommand())};
+
+            sequence = new Sequence(expressions);
+            context = new Context(";", '(', ')');
+        }
 
 
-            // Take input stream
-            string input = "";
-
-            // Parse into list of words
-            Context context = new Context();
+        public void Run(string input)
+        {
+            context = new Context(";", '(', ')');
             context.Input = input;
-
-            Sequence sequence = new Sequence(";");
             sequence.Interpret(context);
-                
 
-            // Run through iteration of expressions for matches & actions
-
-
-
+            Console.WriteLine(context.Output);
         }
     }
 }

@@ -8,6 +8,8 @@ namespace DuckLanguage.Model
 {
     public abstract class Expression
     {
+        public bool success { get; protected set; }
+
         public abstract void Interpret(Context context);
     }
 }

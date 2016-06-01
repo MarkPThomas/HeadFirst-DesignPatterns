@@ -8,37 +8,56 @@ namespace DuckLanguage.Model
 {
     public class Sequence : Expression
     {
-        private List<Expression> Expressions = new List<Expression>();
+        private string _demarcator;
 
-        public string Demarcator { get; private set; }
+        public List<Expression> Expressions { get; private set; } = new List<Expression>();
 
-        public Sequence(string demarcator)
+        public Sequence(List<Expression> expressions)
         {
-            Demarcator = demarcator;
-            Expressions.Add(new Repetition());
-            Expressions.Add(new FlyCommand());
-            Expressions.Add(new QuackCommand());
-            Expressions.Add(new RightCommand());
+            Expressions = expressions;
         }
         public override void Interpret(Context context)
         {
-            char[] input = context.Input.ToCharArray();
-            string word = "";
-            string demarcator = "";
-            for (int i = 0; i < input.Length; i++)
-            {
-                if (Demarcator.StartsWith(input[i].ToString()))
-                {
-                    for (int j = 0; j < Demarcator.Length; j++)
-                    {
-                        if (true)
-                        {
+            _demarcator = context.Demarcator;
+            context = SplitSequences(context);
+            Execute(context);
+        }
 
-                        }
+        private Context SplitSequences(Context context)
+        {
+            string stream = context.Input;
+            
+            int expressionLength = 0;
+            for (int i = 0; i < stream.Length; i++)
+            {
+                if (_demarcator.StartsWith(stream[i].ToString()))
+                {
+                    string testDemarcator = stream.Substring(i, _demarcator.Length);
+                    if (_demarcator == testDemarcator)
+                    {
+                        Context sequence = (Context)context.Clone();
+                        sequence.Input = stream.Substring(i - expressionLength, expressionLength);
+                        context.Sequences.Add(sequence);
+                        expressionLength = 0;
                     }
                 }
+                else
+                {
+                    expressionLength++;
+                }
             }
+            return context;
+        }
 
+        private void Execute(Context context)
+        {
+            foreach (Context contextItem in context.Sequences)
+            {
+                foreach (Expression expression in Expressions)
+                {
+                    expression.Interpret(contextItem);
+                }
+            }
         }
     }
 }
