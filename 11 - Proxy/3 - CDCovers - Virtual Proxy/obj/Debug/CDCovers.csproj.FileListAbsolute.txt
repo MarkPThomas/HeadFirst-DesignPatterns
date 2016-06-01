@@ -14,3 +14,6 @@ C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CD
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.csproj.GenerateResource.Cache
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.exe
 C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers\obj\Debug\CDCovers.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers - Virtual Proxy\bin\Debug\CDCovers.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers - Virtual Proxy\obj\Debug\CDCovers.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-DesignPatterns\11 - Proxy\3 - CDCovers - Virtual Proxy\obj\Debug\CDCovers.pdb
